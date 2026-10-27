@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-netID is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://netid.de/
+netID provides a unified login solution for German online services, allowing users to register once and access multiple partner platforms with a single set of credentials. The service emphasizes user control, privacy, and ease of use, offering a clear consent management system and a privacy center. It targets both consumers and businesses seeking streamlined authentication across various e‑commerce and digital offerings, positioning itself as a central identity hub in the German market.
+
+**Areas:** Company · Identity · Authentication · Login · German
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://netid.de/)
+- [Documentation](https://developer.netid.de/)
+- [Privacy policy](https://broker.netid.de/privacycenter)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/netid/](https://apis.io/providers/netid/).
